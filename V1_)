@@ -2,5 +2,8 @@
 
   hi
 
-  why ur watching on this?
+  why ur watching this?
 ]]--
+
+--> svo <--
+loadstring(game:HttpGet('https://raw.githubusercontent.com/commi-xyz/oscorp-industries/refs/heads/main/svo_softworks', true))()
